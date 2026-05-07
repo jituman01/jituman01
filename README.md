@@ -1,7 +1,7 @@
 # Hi there, I'm Md. Naimul Islam Jitu 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%26+Next.js+Enthusiast;Sociology+Student;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%26+Next.js+Enthusiast;Sociology+Student;" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,8 +15,6 @@ I am a passionate **Frontend Developer** dedicated to building clean, user-frien
 
 - 🔭 **Current Project:** [QurbaniHat](https://github.com/jituman01) (Livestock Booking Platform)
 - 🌱 **Learning:** TypeScript, Server-side Rendering (SSR), and Advanced API Logic.
-- ⚡ **Fun Fact:** I love mechanical keyboards and clean UI designs.
-
 ---
 
 ### 🚀 Tech Stack
