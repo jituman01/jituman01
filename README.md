@@ -1,12 +1,12 @@
 # Hi there, I'm Md. Naimul Islam Jitu 👋
 
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%26+Next.js+Enthusiast;Sociology+Student;" alt="Typing SVG" />
-</p> -->
+ <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%26+Next.js+Enthusiast;Student;" alt="Typing SVG" />
+</p> 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://i.pinimg.com/1200x/ac/15/da/ac15dae3e1ebe1a151b26de806db9999.jpg" width="100%" style="border-radius: 10px;" />
-</p>
+</p> -->
 
 ---
 
