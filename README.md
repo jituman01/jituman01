@@ -13,7 +13,7 @@
 ### 💫 About Me
 I am a passionate **Frontend Developer** dedicated to building clean, user-friendly, and responsive web applications. Currently, I am balancing my academic life as a **Sociology student** while honing my technical skills in modern web frameworks.
 
-- 🔭 **Current Project:** [QurbaniHat](https://github.com/jituman01) (Livestock Booking Platform)
+- 🔭 **Current Project:** [DocAppointment](https://doctor-appointment-manager-lovat.vercel.app) (Livestock Booking Platform)
 - 🌱 **Learning:** TypeScript, Server-side Rendering (SSR), and Advanced API Logic.
 ---
 
