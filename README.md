@@ -17,7 +17,7 @@
 ### About Me
 I am a passionate **Frontend Developer** dedicated to building clean, user-friendly, and responsive web applications. Currently, I am balancing my academic life as a **Sociology student** while honing my technical skills in modern web frameworks.
 
-- 🔭 **Current Project:** [Hireloop]() (Job Hiring Platform)
+- 🔭 **Current Project:** [Hireloop]('https://github.com/jituman01/hireloop-client') (Job Hiring Platform)
 - 🌱 **Learning:** TypeScript, Server-side Rendering (SSR), and Advanced API Logic.
 ---
 
