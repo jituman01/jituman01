@@ -1,4 +1,4 @@
-<p align="center">
+<H2 align="center">
 # Hi there, I'm Md. Naimul Islam Jitu 👋 />
 
  <p align="center">
