@@ -28,11 +28,12 @@ I am a passionate **Frontend Developer** dedicated to building clean, user-frien
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jituman01&show_icons=true&theme=tokyonight&hide_border=true&align=center" alt="Jitu's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jituman01&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
+### GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jituman01&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jituman01&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
