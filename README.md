@@ -1,4 +1,5 @@
-# Hi there, I'm Md. Naimul Islam Jitu 👋
+<p align="center">
+# Hi there, I'm Md. Naimul Islam Jitu 👋 />
 
  <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Web+Developer;React+%26+Next.js+Enthusiast;" alt="Typing SVG" />
@@ -27,6 +28,7 @@ I am a passionate **Frontend Developer** dedicated to building clean, user-frien
 ---
 
 ### GitHub Stats
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=jituman01&theme=tokyonight&hide_border=true" alt="Jitu's Streak" />
 </p>
 
