@@ -17,7 +17,7 @@ I am a passionate **Frontend Developer** dedicated to building clean, user-frien
 - 🌱 **Learning:** TypeScript, Server-side Rendering (SSR), and Advanced API Logic.
 ---
 
-### Tech Stack
+### Language & Tools
 <p align="left">
   <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,mongodb,nodejs,express,git,vscode,figma,github" />
