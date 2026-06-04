@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://i.ibb.co.com/LhR031Lq/Chat-GPT-Image-Jun-4-2026-10-56-46-PM.png" alt="Md Naimul Islam Jitu Banner" width="100%">
+</p>
 # Hey, I'm Naimul Islam Jitu 👋
 
  <p align="center">
