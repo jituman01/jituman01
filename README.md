@@ -5,7 +5,7 @@
 # Hey, I'm Naimul Islam Jitu 👋
 
  <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Web+Developer;React+%26+Next.js+Enthusiast;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%26+Next.js+Enthusiast;" alt="Typing SVG" />
 </p> 
 
 <!-- <p align="center">
