@@ -10,14 +10,14 @@
 
 ---
 
-### 💫 About Me
+### About Me
 I am a passionate **Frontend Developer** dedicated to building clean, user-friendly, and responsive web applications. Currently, I am balancing my academic life as a **Sociology student** while honing my technical skills in modern web frameworks.
 
 - 🔭 **Current Project:** [Hireloop]() (Job Hiring Platform)
 - 🌱 **Learning:** TypeScript, Server-side Rendering (SSR), and Advanced API Logic.
 ---
 
-### 🚀 Tech Stack
+### Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,mongodb,nodejs,express,git,vscode,figma,github" />
@@ -26,7 +26,7 @@ I am a passionate **Frontend Developer** dedicated to building clean, user-frien
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jituman01&show_icons=true&theme=tokyonight&hide_border=true&align=center" alt="Jitu's GitHub Stats" />
 </p>
@@ -39,7 +39,7 @@ I am a passionate **Frontend Developer** dedicated to building clean, user-frien
 
 ### 🌐 Let's Connect
 <p align="left">
-<a href="https://linkedin.com/in/md-naimul-islam-jitu" target="blank">
+<a href="https://www.linkedin.com/in/md-naimul-islam-jitu" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="naimulislamjitu585@gmail.com" target="blank">
