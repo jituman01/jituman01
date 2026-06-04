@@ -13,15 +13,15 @@
 ### 💫 About Me
 I am a passionate **Frontend Developer** dedicated to building clean, user-friendly, and responsive web applications. Currently, I am balancing my academic life as a **Sociology student** while honing my technical skills in modern web frameworks.
 
-- 🔭 **Current Project:** [DocAppointment](https://doctor-appointment-manager-lovat.vercel.app) (Livestock Booking Platform)
+- 🔭 **Current Project:** [Hireloop]() (Job Hiring Platform)
 - 🌱 **Learning:** TypeScript, Server-side Rendering (SSR), and Advanced API Logic.
 ---
 
 ### 🚀 Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,mongodb,vscode,figma,github" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,mongodb,nodejs,express,git,vscode,figma,github" />
+</a>
 </p>
 
 ---
