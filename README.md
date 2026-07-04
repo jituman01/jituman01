@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/LhR031Lq/Chat-GPT-Image-Jun-4-2026-10-56-46-PM.png" alt="Md Naimul Islam Jitu Banner" width="100%">
+  <!-- <img src="https://i.ibb.co.com/LhR031Lq/Chat-GPT-Image-Jun-4-2026-10-56-46-PM.png" alt="Md Naimul Islam Jitu Banner" width="100%"> -->
+  <img src="https://i.ibb.co.com/Z1wfW6Gr/Chat-GPT-Image-Jun-11-2026-08-34-39-PM.png" alt="Md Naimul Islam Jitu Banner" width="100%">
 </p>
 
 # Hey, I'm Naimul Islam Jitu 👋
