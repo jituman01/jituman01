@@ -16,7 +16,7 @@
 ---
 
 ### About Me
-I am a passionate **Frontend Developer** dedicated to building clean, user-friendly, and responsive web applications. Currently, I am balancing my academic life as a **Sociology student** while honing my technical skills in modern web frameworks.
+I am a passionate Full-Stack Developer focused on building high-performance web applications using 𝗥𝗲𝗮𝗰𝘁.𝗷𝘀, 𝗡𝗲𝘅𝘁.𝗷𝘀 with backend expertise in 𝗡𝗼𝗱𝗲.𝗷𝘀, 𝗘𝘅𝗽𝗿𝗲𝘀𝘀.𝗷𝘀, and 𝗠𝗼𝗻𝗴𝗼𝗗𝗕.Driven by continuous learning, I am committed to writing clean, efficient, and production-ready code to deliver scalable solutions that add real value.
 
 - 🔭 **Current Project:** [RecipeHub](https://github.com/jituman01/recipehub-client) (Recipe Sharing Platform)
 - 🌱 **Learning:** TypeScript, MySQL and Advanced API Logic.
